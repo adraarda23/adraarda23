@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
-- ⚡ Fun fact **I'm curious to try new something for me**
+- ⚡ Fun fact **I'm curious about to try new something for me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
