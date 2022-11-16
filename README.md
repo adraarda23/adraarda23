@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Aydın Kılınç</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Web Development Trio**
+- 🌱 I’m currently learning the **Web Development Trio**
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
