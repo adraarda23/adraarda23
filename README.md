@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arda Aydın Kılınç</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Python extensions**
+- 🌱 I’m currently learning **Web Development Trio**
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
-- ⚡ Fun fact **I'm curious about to try new something for me**
+- ⚡ Fun fact **I'm curious about to new computer technologies like Quantum computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
