@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Aydın Kılınç</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I'm improving myself on the **FASTAPI**
+- 🌱 I'm improving myself on the **FAST API**
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
