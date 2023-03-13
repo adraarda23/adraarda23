@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Aydın Kılınç</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I'm currently practicing on the **JavaScript**
+- 🌱 I'm currently learning **BootStrap**
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
