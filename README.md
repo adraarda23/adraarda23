@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div class="tenor-gif-embed" align="right" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a align="right" href="https://tenor.com/view/programmer-gif-19019116">
 <a href="https://linkedin.com/in/ardaaydınkılınç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardaaydınkılınç" height="30" width="40" /></a>
 <!--<a href="https://www.hackerrank.com/@ardaaydinkilinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ardaaydinkilinc" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/ardaaydinkilinc/" target="blank">
