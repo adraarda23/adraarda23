@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adraarda23&label=Profile%20views&color=0e75b6&style=flat" alt="adraarda23" /> </p>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently improving my skills at **Datastrucres and Algorithm in Java and Javascript**
 
 - 📫 How to reach me **ardaaydinkilinc@gmail.com**
 
