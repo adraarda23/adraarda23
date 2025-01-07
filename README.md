@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="html,css,js,ts,angular,react,bootstrap,nodejs,express,py,flask,nginx,postman,postgres,mysql,mongodb,sqlite,linux,docker,git" alt="My Skills">
+<img src="html,css,js,ts,angular,react,bootstrap,nodejs,express,py,flask,nginx,postman,postgres,mysql,mongodb,sqlite,linux,docker,git.png" alt="My Skills">
 
 
 
