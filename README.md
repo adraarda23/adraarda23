@@ -1,4 +1,3 @@
-![github-header-image](https://github.com/adraarda23/adraarda23/assets/113470792/6a341e23-c757-442d-bf10-439b58611856)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
