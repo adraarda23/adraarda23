@@ -24,9 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adraarda23&show_icons=true&locale=en" alt="adraarda23" /></p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adraarda23&show_icons=true&locale=en&layout=compact" alt="adraarda23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adraarda23&show_icons=true&locale=en" alt="adraarda23" /></p>
